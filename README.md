@@ -13,7 +13,7 @@
 ### Клонирование репозитория
 
 ```bash
-git clone https://github.com/your-username/weather-bot.git
+git clone https://github.com/365974/weather-bot.git
 cd weather-bot
 ```
 ## Установка зависимостей
